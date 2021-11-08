@@ -8,6 +8,8 @@ public class Introduction {
 		System.out.println("I live in Apex");
 		System.out.println("I am learning QA");
 		System.out.println("I have 2 kids");
+		System.out.println("I am learning GIT too.");
 	}
+	
 
 }
